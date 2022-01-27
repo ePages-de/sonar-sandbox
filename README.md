@@ -9,3 +9,6 @@ This is an experimental project which is used for testing Sonarcube features.
 ```
 ./gradlew test
 ```
+### Writing tests
+
+Mind that JUnit5 is used in this project.
